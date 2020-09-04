@@ -35,6 +35,10 @@
 
 ---
 
+### 📕 Latest Blog Posts!
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <a href="https://github.com/rajitkhanna/rajitkhanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true&theme=buefy" alt="Rajit's Github Stats"/>
 </a>
