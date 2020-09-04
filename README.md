@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> - I'm [Rajit][website] ![](https://visitor-badge.glitch.me/badge?page_id=rajitkhanna.rajitkhanna)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> - I'm [Rajit][website]
 
 [![Website](https://img.shields.io/website?label=RAJITKHANNA.com&style=for-the-badge&url=https%3A%2F%2Frajitkhanna.com)](https://rajitkhanna.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajitwrites?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rajitkhanna&screen_name=rajitwrites)
@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![](https://visitor-badge.glitch.me/badge?page_id=rajitkhanna.rajitkhanna)
 
 <br />
 
