@@ -19,6 +19,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="hghjtps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
@@ -34,7 +35,7 @@
 
 ---
 
-[![Rajit's github stats](https://github-readme-stats.vercel.app/api?username=rajitkhanna)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajit's github stats](https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://rajitkhanna.com/
