@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 I’m currently working on creating interactive [data apps with streamlit](https://streamlit-housing.herokuapp.com/).
 - 🍨 I’m currently learning HTML, CSS, and Vanilla JS.
-- 👯 I’m looking to collaborate with other creative people who love writing and developing!
+- 👯 I’m looking to collaborate with other creative people who love making!
 - 🥅 2020 Goals: Contribute to more Open Source projects
 - ⚡ Fun fact: I was born on Mother's Day!
 
