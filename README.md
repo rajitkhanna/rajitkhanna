@@ -37,6 +37,11 @@
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [Why Startup: Dreams from my Childhood](https://rajitkhanna.com/startup/)
+- [The Myth of External Antagonists](https://rajitkhanna.com/hamlet/)
+- [Math, Soccer, and the Perfect Son](https://rajitkhanna.com/perfection/)
+- [My Ten Week NASA Internship](https://rajitkhanna.com/nasa/)
+- [Blathering: How TDR Pricked my Conscience](https://rajitkhanna.com/blather/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/rajitkhanna/rajitkhanna">
