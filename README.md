@@ -34,6 +34,8 @@
 
 ---
 
+[![Rajit's github stats](https://github-readme-stats.vercel.app/api?username=rajitkhanna)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://rajitkhanna.com/
 [twitter]: https://twitter.com/rajitwrites
 [instagram]: https://instagram.com/rajit.khanna
