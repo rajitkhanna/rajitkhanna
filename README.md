@@ -2,7 +2,7 @@
 
 ## I'm a Hacker, Writer, and Blogger!
 
-- 👨🏽‍💻 I’m currently working on deploying interactive data apps with streamlit.
+- 👨🏽‍💻 I’m currently working on deploying [interactive data apps with streamlit](https://streamlit-housing.herokuapp.com/).
 - 🍨 I’m currently learning HTML, CSS, and Vanilla JS.
 - 👯 I’m looking to collaborate with other creative people who love writing and developing!
 - 🥅 2020 Goals: Contribute more to Open Source projects
