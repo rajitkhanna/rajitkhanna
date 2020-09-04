@@ -39,10 +39,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/rajitkhanna/rajitkhanna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="Rajit's Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats" alt="Rajit's Github Stats"/>
 </a>
 <a href="https://github.com/rajitkhanna/rajitkhanna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook&layout=compact" alt="Rajit's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook&theme=buefy" alt="Rajit's Top Languages" />
 </a>
 
 
