@@ -35,7 +35,7 @@
 ---
 
 [![Rajit's github stats](https://github-readme-stats.vercel.app/api?username=rajitkhanna)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://rajitkhanna.com/
 [twitter]: https://twitter.com/rajitwrites
