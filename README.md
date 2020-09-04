@@ -64,9 +64,11 @@ No Activity tracked this Week
 <a href="https://github.com/rajitkhanna/rajitkhanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true&theme=buefy" alt="Rajit's Github Stats"/>
 </a>
+<!--
 <a href="https://github.com/rajitkhanna/rajitkhanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook,html&theme=buefy" alt="Rajit's Top Languages" />
 </a>
+-->
 
 
 [website]: https://rajitkhanna.com/
