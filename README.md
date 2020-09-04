@@ -1,7 +1,7 @@
 ### Hi there 👋 - I'm [Rajit][website]
 
 [![Website](https://img.shields.io/website?label=RAJITKHANNA.com&style=for-the-badge&url=https%3A%2F%2Frajitkhanna.com)](https://rajitkhanna.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rajitwrites?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/rajitwrites?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rajitkhanna&screen_name=rajitwrites)
 
 
 ## I'm a Hacker, Writer, and Blogger!
