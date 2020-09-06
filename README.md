@@ -44,7 +44,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 August, 2020 - 05 September, 2020
+
+Java     4 mins          ██████████████████████░░░   87.39 % 
+Python   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 ```
 <!--END_SECTION:waka-->
 
