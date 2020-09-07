@@ -65,7 +65,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 - [Blathering: How TDR Pricked my Conscience](https://rajitkhanna.com/blather/)
 <!-- BLOG-POST-LIST:END -->
 
-↪️[more posts...](https://rajitkhanna.com)
+▶️ [more posts...](https://rajitkhanna.com)
 
 ---
 
