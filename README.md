@@ -44,12 +44,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2020 - 06 September, 2020
+Week: 31 August, 2020 - 07 September, 2020
 
-Java         1 hr 33 mins    █████████████████████▓░░░   86.84 % 
-Python       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Java         1 hr 54 mins    ██████████████████████▒░░   88.92 % 
+Python       12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
