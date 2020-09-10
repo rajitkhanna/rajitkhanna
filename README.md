@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
 Java         2 hrs           ██████████████░░░░░░░░░░░   55.99 % 
 Python       1 hr 23 mins    █████████▓░░░░░░░░░░░░░░░   38.52 % 
