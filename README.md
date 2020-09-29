@@ -44,13 +44,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2020 - 27 September, 2020
+Week: 21 September, 2020 - 28 September, 2020
 
-Java         5 hrs 9 mins    ██████████████▒░░░░░░░░░░   57.83 % 
-Python       3 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   35.03 % 
-CSS          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Java         7 hrs 56 mins   ██████████████████▓░░░░░░   74.25 % 
+Python       2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
 
