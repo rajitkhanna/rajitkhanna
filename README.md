@@ -58,11 +58,11 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [Active Lazing: How I Can Be Still](https://rajitkhanna.com/still/)
 - [Why Startup: Dreams from my Childhood](https://rajitkhanna.com/startup/)
 - [The Myth of External Antagonists](https://rajitkhanna.com/hamlet/)
 - [Math, Soccer, and the Perfect Son](https://rajitkhanna.com/perfection/)
 - [My Ten Week NASA Internship](https://rajitkhanna.com/nasa/)
-- [Blathering: How TDR Pricked my Conscience](https://rajitkhanna.com/blather/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
