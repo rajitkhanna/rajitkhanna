@@ -44,11 +44,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
-Java    14 hrs 58 mins  ████████████████████████▒   97.34 % 
-CSS     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Other   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Java    16 hrs 48 mins  ████████████████████████▒   97.62 % 
+CSS     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Other   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
