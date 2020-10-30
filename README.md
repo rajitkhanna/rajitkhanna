@@ -44,10 +44,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2020 - 28 October, 2020
+Week: 22 October, 2020 - 29 October, 2020
 
-Java   6 hrs 4 mins    █████████████████████░░░░   83.79 % 
-NASM   1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Java   9 hrs 54 mins   █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
 
