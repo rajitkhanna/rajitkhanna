@@ -44,10 +44,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2020 - 30 October, 2020
+Week: 24 October, 2020 - 31 October, 2020
 
-Java     10 hrs 55 mins  ████████████████████████▒   97.51 % 
-Python   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Java     7 hrs 30 mins   ████████████████████████░   96.43 % 
+Python   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 <!--END_SECTION:waka-->
 
