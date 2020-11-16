@@ -44,11 +44,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2020 - 14 November, 2020
+Week: 08 November, 2020 - 15 November, 2020
 
-C          5 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.20 % 
-Java       3 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Python     53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+C          5 hrs 40 mins   █████████████████░░░░░░░░   68.59 % 
+Java       1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Python     53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 ```
 <!--END_SECTION:waka-->
 
