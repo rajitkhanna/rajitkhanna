@@ -55,11 +55,11 @@ Python       8 mins          ██░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [The Pain of Not Writing](https://rajitkhanna.com/writing/)
 - [Active Lazing: How I Can Be Still](https://rajitkhanna.com/still/)
 - [Why Startup: Dreams from my Childhood](https://rajitkhanna.com/startup/)
 - [The Myth of External Antagonists](https://rajitkhanna.com/hamlet/)
 - [Math, Soccer, and the Perfect Son](https://rajitkhanna.com/perfection/)
-- [My Ten Week NASA Internship](https://rajitkhanna.com/nasa/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
