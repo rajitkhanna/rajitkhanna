@@ -44,12 +44,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-HTML       2 hrs 32 mins   ████████████████▓░░░░░░░░   66.16 % 
-YAML       1 hr 3 mins     ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Java       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+HTML       2 hrs 37 mins   █████████████████▒░░░░░░░   69.73 % 
+YAML       1 hr 5 mins     ███████▒░░░░░░░░░░░░░░░░░   28.72 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
 
