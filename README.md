@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2020 - 12 December, 2020
+Week: 06 December, 2020 - 13 December, 2020
 
 HTML       2 hrs 37 mins   █████████████████▒░░░░░░░   69.73 % 
 YAML       1 hr 5 mins     ███████▒░░░░░░░░░░░░░░░░░   28.72 % 
