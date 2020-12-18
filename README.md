@@ -6,10 +6,10 @@
 
 ## I'm a Hacker, Writer, and Blogger!
 
-- 👨🏽‍💻 I’m currently working on creating interactive [data apps with streamlit](https://streamlit-housing.herokuapp.com/) and [writing a book](https://www.linkedin.com/feed/update/urn:li:activity:6728073556808261632/).
+- 👨🏽‍💻 I’m currently working on [writing a book](https://rajitkhanna.com/book/).
 - 🍨 I’m currently learning HTML, CSS, and Vanilla JS.
 - 👯 I’m looking to collaborate with other creative people who love making!
-- 🥅 2020 Goals: Contribute to more Open Source projects
+- 🥅 2021 Goals: Contribute to more Open Source projects
 - ⚡ Fun fact: I was born on Mother's Day!
 
 ### Connect with me:
