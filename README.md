@@ -63,6 +63,12 @@ No Activity tracked this Week
 
 ---
 
+### 🗣 Latest Podcast Episodes!
+<!-- -->
+<!-- -->
+
+▶️ [more episodes...](https://rajitkhanna.com/podcast/)
+
 <a href="https://github.com/rajitkhanna/rajitkhanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true&theme=buefy" alt="Rajit's Github Stats"/>
 </a>
