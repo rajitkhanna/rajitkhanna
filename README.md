@@ -6,7 +6,7 @@
 
 ## I'm a Hacker, Writer, and Blogger!
 
-- 👨🏽‍💻 I’m currently [writing a book](https://rajitkhanna.com/book/).
+- 👨🏽‍💻 I’m [writing a book](https://rajitkhanna.com/book/).
 - 🍨 I’m currently learning HTML, CSS, and Vanilla JS.
 - 👯 I’m looking to collaborate with other creative people who love making!
 - 🥅 2021 Goals: Contribute to more Open Source projects
