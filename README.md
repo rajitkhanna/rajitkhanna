@@ -52,11 +52,11 @@ No Activity tracked this Week
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
-- [Pay Dave Chappelle](https://rajitkhanna.com/dave/)
-- [The Pain of Not Writing](https://rajitkhanna.com/writing/)
-- [Active Lazing: How I Can Be Still](https://rajitkhanna.com/still/)
-- [Why Startup: Dreams from my Childhood](https://rajitkhanna.com/startup/)
-- [The Myth of External Antagonists](https://rajitkhanna.com/hamlet/)
+- [Ep. #7 - Sudarshan Sridharan](https://rajitkhanna.com/podcast/sudz/)
+- [Ep. #6 - Samay Shamdasani](https://rajitkhanna.com/podcast/samay/)
+- [Ep. #5 - Hugo Amsellem](https://rajitkhanna.com/podcast/hugo/)
+- [Ep. #4 - Yash Godiwala](https://rajitkhanna.com/podcast/yash/)
+- [Ep. #3 - Justin Murphy](https://rajitkhanna.com/podcast/justin/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
