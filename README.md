@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
 HTML   15 mins         █████████████████████████   100.00 % 
 ```
