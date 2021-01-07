@@ -64,11 +64,11 @@ HTML   15 mins         ███████████████████
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #9 - Courtland Allen](https://rajitkhanna.com/podcast/csallen/)
+- [Ep. #8 - Wade Fletcher](https://rajitkhanna.com/podcast/wade/)
 - [Ep. #7 - Sudarshan Sridharan](https://rajitkhanna.com/podcast/sudz/)
 - [Ep. #6 - Samay Shamdasani](https://rajitkhanna.com/podcast/samay/)
 - [Ep. #5 - Hugo Amsellem](https://rajitkhanna.com/podcast/hugo/)
-- [Ep. #4 - Yash Godiwala](https://rajitkhanna.com/podcast/yash/)
-- [Ep. #3 - Justin Murphy](https://rajitkhanna.com/podcast/justin/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
