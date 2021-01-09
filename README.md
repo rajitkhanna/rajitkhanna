@@ -64,11 +64,11 @@ HTML   15 mins         ███████████████████
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #10 - Mubashar Iqbal](https://rajitkhanna.com/podcast/mubs/)
 - [Ep. #9 - Courtland Allen](https://rajitkhanna.com/podcast/csallen/)
 - [Ep. #8 - Wade Fletcher](https://rajitkhanna.com/podcast/wade/)
 - [Ep. #7 - Sudarshan Sridharan](https://rajitkhanna.com/podcast/sudz/)
 - [Ep. #6 - Samay Shamdasani](https://rajitkhanna.com/podcast/samay/)
-- [Ep. #5 - Hugo Amsellem](https://rajitkhanna.com/podcast/hugo/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
