@@ -64,11 +64,11 @@ Week: 04 January, 2021 - 11 January, 2021
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #12 - Anush Mittal](https://rajitkhanna.com/podcast/anush/)
 - [Ep. #11 - Mike Baxter](https://rajitkhanna.com/podcast/mike/)
 - [Ep. #10 - Mubashar Iqbal](https://rajitkhanna.com/podcast/mubs/)
 - [Ep. #9 - Courtland Allen](https://rajitkhanna.com/podcast/csallen/)
 - [Ep. #8 - Wade Fletcher](https://rajitkhanna.com/podcast/wade/)
-- [Ep. #7 - Sudarshan Sridharan](https://rajitkhanna.com/podcast/sudz/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
