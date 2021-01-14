@@ -41,9 +41,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
+Week: 06 January, 2021 - 13 January, 2021
 
-Bash   1 hr 23 mins    ████████████████████████▓   99.07 % 
+Bash         1 hr 23 mins    ████████████████▓░░░░░░░░   66.37 % 
+JavaScript   34 mins         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
 
