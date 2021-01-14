@@ -64,11 +64,11 @@ Bash   1 hr 23 mins    ███████████████████
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #13 - Rahul Rana](https://rajitkhanna.com/podcast/rahul/)
 - [Ep. #12 - Anush Mittal](https://rajitkhanna.com/podcast/anush/)
 - [Ep. #11 - Mike Baxter](https://rajitkhanna.com/podcast/mike/)
 - [Ep. #10 - Mubashar Iqbal](https://rajitkhanna.com/podcast/mubs/)
 - [Ep. #9 - Courtland Allen](https://rajitkhanna.com/podcast/csallen/)
-- [Ep. #8 - Wade Fletcher](https://rajitkhanna.com/podcast/wade/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
