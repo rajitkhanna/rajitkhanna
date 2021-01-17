@@ -68,11 +68,11 @@ CSS          3 mins          ▒░░░░░░░░░░░░░░░░
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #14 - Garrett Maring](https://rajitkhanna.com/podcast/garrett/)
 - [Ep. #13 - Rahul Rana](https://rajitkhanna.com/podcast/rahul/)
 - [Ep. #12 - Anush Mittal](https://rajitkhanna.com/podcast/anush/)
 - [Ep. #11 - Mike Baxter](https://rajitkhanna.com/podcast/mike/)
 - [Ep. #10 - Mubashar Iqbal](https://rajitkhanna.com/podcast/mubs/)
-- [Ep. #9 - Courtland Allen](https://rajitkhanna.com/podcast/csallen/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
