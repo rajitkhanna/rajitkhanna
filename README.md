@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2021 - 17 January, 2021
+Week: 11 January, 2021 - 18 January, 2021
 
 JavaScript   2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.70 % 
 Bash         1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
