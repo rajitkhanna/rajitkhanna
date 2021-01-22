@@ -68,11 +68,11 @@ Bash         20 mins         █░░░░░░░░░░░░░░░░
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #15 - Leo Guinan](https://rajitkhanna.com/podcast/leo/)
 - [Ep. #14 - Garrett Maring](https://rajitkhanna.com/podcast/garrett/)
 - [Ep. #13 - Rahul Rana](https://rajitkhanna.com/podcast/rahul/)
 - [Ep. #12 - Anush Mittal](https://rajitkhanna.com/podcast/anush/)
 - [Ep. #11 - Mike Baxter](https://rajitkhanna.com/podcast/mike/)
-- [Ep. #10 - Mubashar Iqbal](https://rajitkhanna.com/podcast/mubs/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
