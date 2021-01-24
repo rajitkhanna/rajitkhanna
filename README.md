@@ -68,11 +68,11 @@ CSS          24 mins         █░░░░░░░░░░░░░░░░
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #17 - Daniel Vassallo](https://rajitkhanna.com/podcast/dvassallo/)
 - [Ep. #16 - Jasman Singh](https://rajitkhanna.com/podcast/jasman/)
 - [Ep. #15 - Leo Guinan](https://rajitkhanna.com/podcast/leo/)
 - [Ep. #14 - Garrett Maring](https://rajitkhanna.com/podcast/garrett/)
 - [Ep. #13 - Rahul Rana](https://rajitkhanna.com/podcast/rahul/)
-- [Ep. #12 - Anush Mittal](https://rajitkhanna.com/podcast/anush/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
