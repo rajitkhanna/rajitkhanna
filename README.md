@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2021 - 31 January, 2021
+Week: 25 January, 2021 - 01 February, 2021
 
 Python       5 hrs 12 mins   ███████████████████▒░░░░░   77.39 % 
 JavaScript   1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
