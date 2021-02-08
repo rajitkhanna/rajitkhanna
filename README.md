@@ -68,11 +68,11 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ### 🗣 Latest Podcast Episodes!
 <!-- PODCAST:START -->
+- [Ep. #23 - Praneet Kedari](https://rajitkhanna.com/podcast/praneet/)
 - [Ep. #22 - Jerry Feng](https://rajitkhanna.com/podcast/jerry/)
 - [Ep. #21 - Kiran Cherukuri](https://rajitkhanna.com/podcast/kiran/)
 - [Ep. #20 - Alex Masmej](https://rajitkhanna.com/podcast/alex/)
 - [Ep. #19 - Andrew Roberts](https://rajitkhanna.com/podcast/andrew/)
-- [Ep. #18 - Nikolas Huebecker](https://rajitkhanna.com/podcast/nikolas/)
 <!-- PODCAST:END -->
 
 ▶️ [more episodes...](https://rajitkhanna.com/podcast/)
