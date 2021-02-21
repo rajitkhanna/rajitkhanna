@@ -41,13 +41,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-JavaScript   23 hrs 44 mins  ██████████████████████▒░░   89.92 % 
-Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-HTML         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript   28 hrs 21 mins  ██████████████████████▒░░   89.98 % 
+Python       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Other        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+CSV          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 
