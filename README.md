@@ -41,12 +41,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
-JavaScript   6 hrs 57 mins   ███████████████████████▒░   93.15 % 
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-CSV          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript   26 mins         ████████████████████████▒   97.05 % 
 ```
 <!--END_SECTION:waka-->
 
