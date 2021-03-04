@@ -41,9 +41,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 February, 2021 - 02 March, 2021
+Week: 24 February, 2021 - 03 March, 2021
 
-Python     4 mins          █████████████████████████   99.99 % 
+JavaScript   2 hrs 24 mins   ████████████████████████░   96.49 % 
+Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 <!--END_SECTION:waka-->
 
