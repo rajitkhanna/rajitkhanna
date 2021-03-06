@@ -41,11 +41,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 February, 2021 - 04 March, 2021
+Week: 26 February, 2021 - 05 March, 2021
 
-JavaScript   5 hrs 33 mins   ███████████████████████▒░   93.20 % 
-SCSS         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JavaScript   8 hrs 29 mins   ████████████████████▒░░░░   80.94 % 
+SCSS         1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
