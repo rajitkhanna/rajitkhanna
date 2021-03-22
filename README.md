@@ -39,12 +39,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 March, 2021 - 20 March, 2021
+Week: 14 March, 2021 - 21 March, 2021
 
-Python       17 hrs 56 mins  ██████████████████▒░░░░░░   72.79 % 
-JavaScript   5 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-TOML         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python       17 hrs 53 mins  ██████████████████▒░░░░░░   72.74 % 
+JavaScript   5 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+TOML         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
