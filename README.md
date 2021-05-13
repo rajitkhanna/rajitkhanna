@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2021 - 11 May, 2021
+Week: 05 May, 2021 - 12 May, 2021
 
-TypeScript   7 hrs 22 mins   ████████████░░░░░░░░░░░░░   47.74 % 
-JavaScript   2 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Markdown     1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-YAML         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Docker       54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+TypeScript   5 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.00 % 
+JavaScript   2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Markdown     1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Docker       1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+YAML         1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 <!--END_SECTION:waka-->
 
