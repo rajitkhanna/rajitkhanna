@@ -52,11 +52,11 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [What Happened to Me?](https://rajitkhanna.com/resurgence/)
 - [Pay Dave Chappelle](https://rajitkhanna.com/dave/)
 - [The Pain of Not Writing](https://rajitkhanna.com/writing/)
 - [Active Lazing: How I Can Be Still](https://rajitkhanna.com/still/)
 - [Why Startup: Dreams from my Childhood](https://rajitkhanna.com/startup/)
-- [The Myth of External Antagonists](https://rajitkhanna.com/hamlet/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
