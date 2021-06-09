@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
+Week: 01 June, 2021 - 08 June, 2021
 
 JavaScript   9 hrs 8 mins    █████████████████░░░░░░░░   67.79 % 
 TypeScript   3 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 % 
