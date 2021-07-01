@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 June, 2021 - 29 June, 2021
+Week: 24 June, 2021 - 30 June, 2021
 
-Markdown     2 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.39 % 
-JavaScript   1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
-TypeScript   1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-SCSS         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Docker       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown     2 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   37.38 % 
+TypeScript   2 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+Python       1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+JavaScript   40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Other        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 <!--END_SECTION:waka-->
 
