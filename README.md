@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 June, 2021 - 02 July, 2021
+Week: 27 June, 2021 - 03 July, 2021
 
-TypeScript   4 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Python       4 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.70 % 
-Markdown     2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JavaScript   1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Docker       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python       4 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+TypeScript   4 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
+Markdown     2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 % 
+JavaScript   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Docker       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 <!--END_SECTION:waka-->
 
