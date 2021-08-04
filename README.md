@@ -39,11 +39,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 July, 2021 - 02 August, 2021
+Week: 28 July, 2021 - 03 August, 2021
 
-Python       7 hrs 30 mins   █████████████████████▒░░░   85.75 % 
-TypeScript   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python       3 hrs 12 mins   ██████████████████░░░░░░░   72.41 % 
+TypeScript   1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.67 % 
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 <!--END_SECTION:waka-->
 
