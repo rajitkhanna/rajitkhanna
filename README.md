@@ -39,10 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2021 - 04 August, 2021
-
-Python       53 mins         █████████████████████▒░░░   85.96 % 
-TypeScript   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
