@@ -47,11 +47,11 @@ No Activity tracked this Week
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [21,900 Days](https://rajitkhanna.com/life/)
 - [What Happened to Me?](https://rajitkhanna.com/resurgence/)
 - [Pay Dave Chappelle](https://rajitkhanna.com/dave/)
 - [The Pain of Not Writing](https://rajitkhanna.com/writing/)
 - [Active Lazing: How I Can Be Still](https://rajitkhanna.com/still/)
-- [Why Startup: Dreams from my Childhood](https://rajitkhanna.com/startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
