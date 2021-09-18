@@ -39,9 +39,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 September, 2021 - 16 September, 2021
+Week: 11 September, 2021 - 17 September, 2021
 
-Python   10 mins         █████████████████████████   100.00 % 
+JSX          18 mins         ████████████████░░░░░░░░░   64.02 % 
+Python       10 mins         █████████░░░░░░░░░░░░░░░░   35.86 % 
 ```
 <!--END_SECTION:waka-->
 
