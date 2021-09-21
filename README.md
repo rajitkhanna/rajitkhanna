@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
 JSX          18 mins         ████████████████░░░░░░░░░   64.02 % 
 Python       10 mins         █████████░░░░░░░░░░░░░░░░   35.86 % 
