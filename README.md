@@ -39,11 +39,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-Python       1 hr 29 mins    ███████████████████▒░░░░░   77.82 % 
-JSX          18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Python       8 hrs 54 mins   ████████████████████████░   95.38 % 
+JSX          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 
