@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2021 - 07 October, 2021
+Week: 02 October, 2021 - 08 October, 2021
 
 JSX      2 hrs 42 mins   ██████████████░░░░░░░░░░░   55.62 % 
 Python   2 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.84 % 
