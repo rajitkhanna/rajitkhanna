@@ -39,12 +39,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2021 - 12 October, 2021
+Week: 07 October, 2021 - 13 October, 2021
 
-Python   2 hrs 56 mins   █████████████▓░░░░░░░░░░░   54.36 % 
-JSX      2 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.85 % 
-CSS      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python   54 mins         ████████████████████████▒   97.07 % 
+Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
 
