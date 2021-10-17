@@ -39,10 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
-
-Python   54 mins         ████████████████████████▒   97.07 % 
-Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
