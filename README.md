@@ -39,9 +39,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-Python   29 mins         █████████████████████████   100.00 % 
+Python   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
