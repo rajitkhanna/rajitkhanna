@@ -39,10 +39,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2021 - 29 November, 2021
+Week: 24 November, 2021 - 30 November, 2021
 
-Python   2 hrs 11 mins   ████████████████████████░   95.85 % 
-JSON     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Python   3 hrs 40 mins   ████████████████████████▒   97.33 % 
+JSON     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
 
