@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 Python       19 mins         █████████████████▓░░░░░░░   70.44 % 
 Other        4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
