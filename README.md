@@ -83,5 +83,4 @@ No Activity tracked this Week
 
 [website]: https://rajitkhanna.com/
 [twitter]: https://twitter.com/rajitwrites
-[instagram]: https://instagram.com/rajit.khanna
 [linkedin]: https://linkedin.com/in/rkhanna23
