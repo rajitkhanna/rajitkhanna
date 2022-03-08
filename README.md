@@ -39,7 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 February 2022 - To: 07 March 2022
+
+Solidity     1 hr 16 mins    ████████████████████████▓   98.10 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
