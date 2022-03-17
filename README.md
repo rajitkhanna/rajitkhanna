@@ -39,10 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 09 March 2022 - To: 16 March 2022
 
-Solidity   2 mins          ████████████████▒░░░░░░░░   65.98 %
-Other      1 min           ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Solidity   1 hr 5 mins     ███████████████▒░░░░░░░░░   61.85 %
+Other      24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
 ```
 
 <!--END_SECTION:waka-->
