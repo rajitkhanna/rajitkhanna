@@ -39,10 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2022 - To: 26 March 2022
-
-Text       19 mins         ████████████▓░░░░░░░░░░░░   50.43 %
-Other      14 mins         █████████▓░░░░░░░░░░░░░░░   39.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
