@@ -48,11 +48,11 @@ No activity tracked
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
-- [The Next Act](https://rajitkhanna.com/next/)
-- [Nothing New Under the Sun](https://rajitkhanna.com/2020/)
-- [21,900 Days](https://rajitkhanna.com/life/)
-- [What Happened to Me?](https://rajitkhanna.com/resurgence/)
-- [Pay Dave Chappelle](https://rajitkhanna.com/dave/)
+- [My Muse](https://rajitkhanna.com/book/muse/)
+- [The Next Act](https://rajitkhanna.com/book/next/)
+- [Nothing New Under the Sun](https://rajitkhanna.com/book/2020/)
+- [21,900 Days](https://rajitkhanna.com/book/life/)
+- [What Happened to Me?](https://rajitkhanna.com/book/resurgence/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
