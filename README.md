@@ -39,11 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2022 - To: 09 April 2022
-
-YAML   11 mins         ████████████████░░░░░░░░░   64.42 %
-HTML   6 mins          ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
