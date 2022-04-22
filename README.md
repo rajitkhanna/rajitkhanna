@@ -39,10 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-Solidity   59 mins         ███████████████████████▒░   93.17 %
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Solidity   1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.05 %
+Python     35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Other      23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
 ```
 
 <!--END_SECTION:waka-->
