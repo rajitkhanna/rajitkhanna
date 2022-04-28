@@ -52,11 +52,11 @@ Other      21 mins         █████▓░░░░░░░░░░░�
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
-- [My Muse](https://rajitkhanna.com/book/muse/)
-- [The Next Act](https://rajitkhanna.com/book/next/)
-- [Nothing New Under the Sun](https://rajitkhanna.com/book/2020/)
-- [21,900 Days](https://rajitkhanna.com/book/life/)
-- [What Happened to Me?](https://rajitkhanna.com/book/resurgence/)
+- [Rajit](https://rajitkhanna.com/rajit/)
+- [My Muse](https://rajitkhanna.com/muse/)
+- [The Next Act](https://rajitkhanna.com/next/)
+- [Nothing New Under the Sun](https://rajitkhanna.com/2020/)
+- [21,900 Days](https://rajitkhanna.com/life/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
