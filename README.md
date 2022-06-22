@@ -48,11 +48,11 @@ No activity tracked
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s Driving](https://rajitkhanna.com/genius/)
 - [Rajit](https://rajitkhanna.com/rajit/)
 - [My Muse](https://rajitkhanna.com/muse/)
 - [The Next Act](https://rajitkhanna.com/next/)
 - [Nothing New Under the Sun](https://rajitkhanna.com/2020/)
-- [21,900 Days](https://rajitkhanna.com/life/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
