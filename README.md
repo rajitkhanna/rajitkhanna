@@ -48,11 +48,11 @@ No activity tracked
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [I Spit Bars](https://rajitkhanna.com/bars/)
 - [Who&#39;s Driving](https://rajitkhanna.com/genius/)
 - [Rajit](https://rajitkhanna.com/rajit/)
 - [My Muse](https://rajitkhanna.com/muse/)
 - [The Next Act](https://rajitkhanna.com/next/)
-- [Nothing New Under the Sun](https://rajitkhanna.com/2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
