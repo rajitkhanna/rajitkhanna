@@ -39,7 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 September 2022 - To: 08 September 2022
+
+Python       20 mins         ████████████████████████░   95.89 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
