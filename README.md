@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 29 September 2022
+From: 23 September 2022 - To: 30 September 2022
 
-JavaScript   4 hrs 48 mins   █████████████████▓░░░░░░░   70.71 %
-HTML         1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Python       58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+JavaScript   4 hrs 42 mins   ██████████████████▓░░░░░░   74.75 %
+Python       58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+HTML         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
 ```
 
 <!--END_SECTION:waka-->
