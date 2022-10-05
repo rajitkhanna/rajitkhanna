@@ -39,11 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
-
-JavaScript   3 hrs 48 mins   ███████████████████▓░░░░░   79.01 %
-HTML         36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-Python       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
