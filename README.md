@@ -39,7 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 September 2022 - To: 05 October 2022
+
+Kotlin   5 mins          █████████████▓░░░░░░░░░░░   54.69 %
+Python   4 mins          ███████████▒░░░░░░░░░░░░░   45.31 %
 ```
 
 <!--END_SECTION:waka-->
