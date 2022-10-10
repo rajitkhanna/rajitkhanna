@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 Python   41 mins         ███████████████▓░░░░░░░░░   62.80 %
 YAML     18 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
