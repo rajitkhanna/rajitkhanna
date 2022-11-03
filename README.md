@@ -39,13 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 01 November 2022
+From: 26 October 2022 - To: 02 November 2022
 
-YAML         33 mins         ███████████████████▓░░░░░   78.48 %
-Batchfile    9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML         33 mins         ██████████░░░░░░░░░░░░░░░   39.61 %
+Python       27 mins         ████████░░░░░░░░░░░░░░░░░   31.86 %
+HTML         11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Batchfile    9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+CSV          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
