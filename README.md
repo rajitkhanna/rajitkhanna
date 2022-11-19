@@ -39,12 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-Python     4 hrs 34 mins   █████████████████████░░░░   84.47 %
-Kotlin     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-YAML       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Python   4 hrs 22 mins   ███████████████████████▓░   94.81 %
+Other    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
