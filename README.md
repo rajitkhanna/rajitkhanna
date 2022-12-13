@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
 TypeScript   7 hrs 36 mins   █████████████░░░░░░░░░░░░   51.35 %
 Kotlin       4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
