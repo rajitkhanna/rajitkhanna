@@ -39,14 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-TypeScript   7 hrs 36 mins   █████████████░░░░░░░░░░░░   51.99 %
-Kotlin       4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 %
-YAML         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Markdown     35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   7 hrs 36 mins   ████████████████▓░░░░░░░░   66.43 %
+Kotlin       2 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Markdown     34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
