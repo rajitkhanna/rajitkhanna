@@ -39,13 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-TypeScript   3 hrs 51 mins   ██████████████████████▓░░   90.18 %
-Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   8 mins          █████████████████████████   99.93 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
