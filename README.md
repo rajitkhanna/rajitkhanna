@@ -48,11 +48,11 @@ No activity tracked
 
 ### 📕 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [Creation is Personal](https://rajitkhanna.com/art-is-personal/)
 - [I Spit Bars](https://rajitkhanna.com/bars/)
 - [Who&#39;s Driving](https://rajitkhanna.com/genius/)
 - [Rajit](https://rajitkhanna.com/rajit/)
 - [My Muse](https://rajitkhanna.com/muse/)
-- [The Next Act](https://rajitkhanna.com/next/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more posts...](https://rajitkhanna.com)
