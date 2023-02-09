@@ -39,13 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
-ca65 assembler   1 hr 56 mins    ████████████████▓░░░░░░░░   67.05 %
-Text             22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-Markdown         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Python           15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text             7 mins          ██████████████████▓░░░░░░   74.24 %
+ca65 assembler   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Python           1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Other            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
