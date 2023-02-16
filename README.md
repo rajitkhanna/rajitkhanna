@@ -39,10 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 February 2023 - To: 14 February 2023
+From: 08 February 2023 - To: 15 February 2023
 
-ca65 assembler   1 hr 21 mins    ███████████████▒░░░░░░░░░   60.79 %
-Other            45 mins         ████████▒░░░░░░░░░░░░░░░░   33.98 %
+ca65 assembler   1 hr 21 mins    ████████████▓░░░░░░░░░░░░   51.02 %
+Other            45 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 %
 ```
 
 <!--END_SECTION:waka-->
