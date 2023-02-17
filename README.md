@@ -39,10 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-ca65 assembler   1 hr 21 mins    ████████████▓░░░░░░░░░░░░   51.02 %
-Other            45 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 %
+Python       1 hr 27 mins    ███████████████████▓░░░░░   78.35 %
+C            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+SSH Config   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
