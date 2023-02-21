@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
 C            2 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.02 %
 Python       1 hr 57 mins    ██████████▓░░░░░░░░░░░░░░   43.19 %
