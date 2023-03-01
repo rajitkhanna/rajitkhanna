@@ -39,13 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2023 - To: 27 February 2023
+From: 21 February 2023 - To: 28 February 2023
 
-C                4 hrs 36 mins   ████████████████████████▓   98.74 %
-TeX              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C                4 hrs 36 mins   █████████████████████████   99.94 %
 ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
