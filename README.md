@@ -39,11 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2023 - To: 14 March 2023
+From: 08 March 2023 - To: 15 March 2023
 
-C            5 hrs 1 min     ██████████████████████▒░░   89.97 %
-XML          29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+C           9 hrs 15 mins   ██████████████████████▒░░   89.42 %
+Other       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
