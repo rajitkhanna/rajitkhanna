@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 10 April 2023 - To: 17 April 2023
 
 C           4 hrs 17 mins   ██████████████████████░░░   88.63 %
 Text        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
