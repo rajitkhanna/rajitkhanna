@@ -39,12 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Ezhil      1 hr 48 mins    █████████▒░░░░░░░░░░░░░░░   37.72 %
-Assembly   1 hr 42 mins    █████████░░░░░░░░░░░░░░░░   35.63 %
-Text       43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Python     33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Assembly   1 hr 42 mins    █████████▒░░░░░░░░░░░░░░░   37.53 %
+Ezhil      1 hr 34 mins    ████████▓░░░░░░░░░░░░░░░░   34.40 %
+Text       43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Python     33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
 ```
 
 <!--END_SECTION:waka-->
