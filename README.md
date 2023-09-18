@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
 Ezhil      1 hr 34 mins    ███████████░░░░░░░░░░░░░░   43.46 %
 Assembly   1 hr 26 mins    ██████████░░░░░░░░░░░░░░░   39.99 %
