@@ -39,11 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-Python   12 mins         ██████████████▓░░░░░░░░░░   59.13 %
-Ezhil    5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
-Text     3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Python   15 mins         ███████████▒░░░░░░░░░░░░░   45.51 %
+Docker   8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+Ezhil    5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Text     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Bash     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->
