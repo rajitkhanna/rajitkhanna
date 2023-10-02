@@ -39,12 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Text     28 mins         █████████████████░░░░░░░░   68.39 %
-Docker   8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-Python   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Bash     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Text   29 mins         ███████████████████▒░░░░░   77.65 %
+YAML   8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
 ```
 
 <!--END_SECTION:waka-->
