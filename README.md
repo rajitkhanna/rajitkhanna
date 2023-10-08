@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Python   1 hr 15 mins    ██████████████████████░░░   87.54 %
-YAML     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Python   1 hr 33 mins    ██████████████████████▒░░   89.73 %
+YAML     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
