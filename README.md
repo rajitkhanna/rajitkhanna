@@ -39,12 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Python       33 mins         ██████████████▒░░░░░░░░░░   57.68 %
-JSON         10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-Vim Script   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Text         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Python       1 hr 25 mins    ███████████████████▒░░░░░   77.68 %
+JSON         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Vim Script   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Text         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
