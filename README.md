@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajitwrites?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rajitkhanna&screen_name=rajitwrites)
 
 - 👨🏽‍💻 I’m [writing a book](https://rajitkhanna.com/book/).
-- 🍨 I’m currently learning HTML, CSS, and Vanilla JS.
+- 🍨 I’m currently learning Deep Learning, Learning Theory, and Game Artificial Intelligence.
 - 👯 I’m looking to collaborate with other creative people who love making!
-- 🥅 2021 Goals: Contribute to more Open Source projects
+- 🥅 2024 Goals: get on the iOS App Store, get rid of my phone forever with ambient AI, and create a volumetric rig
 - ⚡ Fun fact: I was born on Mother's Day!
 
 ### Connect with me:
