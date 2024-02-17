@@ -8,7 +8,7 @@ Here's a few projects I'm currently working on:
 - [Am I A Chad](https://github.com/rajitkhanna/amiachadapp), a mobile app that lets users measure themselves against certain fitness standard.
   - Vision: on login, users fill out a form that lets them create a "Chad" score based on their performance on the exercises. This app lets them display a widget on their Home Screen or Apple Watch that they can update as they become more Chad.
   - To Dos:
-    - [ ] add signup/login flow
+    - [ ] add signup / login flow
     - [x] add exercise names, rep ranges, and weight limits
     - [x] add UI components for indicating weight + number of reps 
     - [ ] create scroll list for list of exercises
@@ -16,7 +16,11 @@ Here's a few projects I'm currently working on:
     - [ ] add page for displaying Chad Score on the app
     - [ ] use WidgetKit to create a Chad Score widget
 - [Rajit Search](https://github.com/rajitkhanna/search_engine), a search engine that highlights differences of opinion and promotes dialogue and independent research.
-  - Vision: this app arose from the confusion I experienced researching health supplements; I would read one source claim a substance is beneficial and another claim it's toxic. I wanted to create a space to view multiple sources at once and compare and contrast the evidence. This app
+  - Vision: this app arose from the confusion I experienced researching health supplements; I would read one source claim a substance is beneficial and another claim it's toxic. I wanted to create a space to view multiple sources at once and compare and contrast the evidence. This app makes a query to a search engine and creates a visualization of all the sources that reflects whether each source feels positively or negatively about the given search query. It indicates which sources are considered more reliable. 
+- [AlfredAI](https://github.com/rajitkhanna/AlfredAI), a wearable AI device that will replace my phone.
   - To Dos:
-    - [ ] 
-- [AlfredAI]() 
+    - [ ] enable this AI to direct me on Google Maps
+    - [ ] enable this AI to search along my route for things I might find interesting via Google Maps
+    - [ ] enable this AI to read me my messages via Texts.com / Beeper
+    - [ ] only let this device listen when I want it to (toggle the mic on and off)
+    - [ ] give the device cellular access (buy LTE hat)
