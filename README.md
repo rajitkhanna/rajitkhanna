@@ -11,16 +11,13 @@
 - 🥅 2024 Goals: get on the iOS App Store, get rid of my phone forever with ambient AI, and create a volumetric rig
 - ⚡ Fun fact: I was born on Mother's Day!
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=rajitkhanna.rajitkhanna) -->
 
 <br />
-
+<!--
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -50,7 +47,11 @@ No activity tracked
 
 ---
 
-### 📕 Latest Blog Posts!
+-->
+
+<!-- ### 📕 Latest Blog Posts! -->
+
+Here's me thinking about what it means to live well in the 21st century:
 <!-- BLOG-POST-LIST:START -->
 - [Creation is Personal](https://rajitkhanna.com/art-is-personal/)
 - [I Spit Bars](https://rajitkhanna.com/bars/)
@@ -63,7 +64,9 @@ No activity tracked
 
 ---
 
-### 🗣 Latest Podcast Episodes!
+<!-- ### 🗣 Latest Podcast Episodes!-->
+
+Here's me talking about it:
 <!-- PODCAST:START -->
 - [Ep. #25 - Dival Banerjee](https://rajitkhanna.com/podcast/dival/)
 - [Ep. #24 - NASJAQ](https://rajitkhanna.com/podcast/nasjaq/)
@@ -76,15 +79,22 @@ No activity tracked
 
 ---
 
+<!-- 
 <a href="https://github.com/rajitkhanna/rajitkhanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajitkhanna&count_private=true&show_icons=true&theme=buefy" alt="Rajit's Github Stats"/>
 </a>
+-->
 <!--
 <a href="https://github.com/rajitkhanna/rajitkhanna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitkhanna&hide=jupyter+notebook,html&theme=buefy" alt="Rajit's Top Languages" />
 </a>
 -->
 
+Find me online elsewhere:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://rajitkhanna.com/
 [twitter]: https://twitter.com/rajitwrites
