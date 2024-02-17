@@ -33,7 +33,6 @@
 <br />
 -->
 
-<!--
 ---
 ### 📊 Weekly Development Breakdown
 
@@ -48,7 +47,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ---
--->
 
 <!-- ### 📕 Latest Blog Posts! -->
 
