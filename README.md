@@ -27,6 +27,6 @@ Here's a few projects I'm currently working on:
 
 
 Future ideas:
-- DIY volumetric rig for workout analysis
+- DIY volumetric rig for workout analysis using Instant-3D
 - YouTube but it prompts users after each video for where they'd like to go next to prevent echochambers.
 - Mandem bracelet (distress bracelet for a group of friends in a <1 mi area)
