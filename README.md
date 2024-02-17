@@ -24,6 +24,7 @@ Here's a few projects I'm currently working on:
     - [ ] enable this AI to read me my messages via Texts.com / Beeper
     - [ ] only let this device listen when I want it to (toggle the mic on and off)
     - [ ] give the device cellular access (buy LTE hat)
+    - [ ] AI macros: AI that finds what AI you need (i.e. if I need to get the best price on a new car, my AI would select SellGPT from the GPT store, give it the context, and then have it call the appropriate dealerships)
 
 
 Future ideas:
