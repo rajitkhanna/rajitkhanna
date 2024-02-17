@@ -6,7 +6,7 @@ In my free time, I like to think about what it means to live well in the 21st ce
 
 Here's a few projects I'm currently working on:
 - [Am I A Chad](https://github.com/rajitkhanna/amiachadapp), a mobile app that lets users measure themselves against certain fitness standard.
-- - [ ] Add auth
+-- [ ] Add auth
 - [Rajit Search]()
 
 - [AlfredAI]() 
