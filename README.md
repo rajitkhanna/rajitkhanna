@@ -24,3 +24,9 @@ Here's a few projects I'm currently working on:
     - [ ] enable this AI to read me my messages via Texts.com / Beeper
     - [ ] only let this device listen when I want it to (toggle the mic on and off)
     - [ ] give the device cellular access (buy LTE hat)
+
+
+Future ideas:
+- DIY volumetric rig for workout analysis
+- YouTube but it prompts users after each video for where they'd like to go next to prevent echochambers.
+- Mandem bracelet (distress bracelet for a group of friends in a <1 mi area)
