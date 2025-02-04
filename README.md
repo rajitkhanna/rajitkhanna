@@ -7,3 +7,6 @@ I like to [build](https://rajitkhanna.com/build). Here's a few of my favorite op
 - [search_engine](https://github.com/rajitkhanna/search_engine): AI search engine
 - [greptile.nvim](https://github.com/rajitkhanna/greptile.nvim): Semantic file search for NeoVim
 - [...](https://rajitkhanna.com/build)
+
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/rajitkhanna/stats)
